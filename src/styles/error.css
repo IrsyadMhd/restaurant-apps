@@ -1,0 +1,8 @@
+h1.error {
+    margin: 20px auto;
+    color: red;
+} 
+
+p.empty-db {
+    text-align: center;
+}
